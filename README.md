@@ -43,4 +43,6 @@ This project creates a chatbot that helps Vietnamese users read and understand d
 - Improve the accuracy of answers using advanced search algorithms.
 - Add user feedback to improve the model over time.
 
+### **Demo**
+![Demo Image](Assets/demo.png)
 
