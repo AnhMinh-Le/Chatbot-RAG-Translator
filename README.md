@@ -18,7 +18,7 @@ This project creates a chatbot that helps Vietnamese users read and understand d
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnhMinh-Le/Chatbot-RAG-Translator.git
-   cd your-repo
+   cd Chatbot-RAG-Translator
 
 2. Install the required libraries via setup.txt:
    ```bash
