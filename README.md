@@ -24,7 +24,14 @@ This project creates a chatbot that helps Vietnamese users read and understand d
    ```bash
     pip install -r setup.txt
 
-3. Run the application:
+### **Configure Hugging Face API Key**
+
+3. Add your Hugging Face API key to the `huggingface.env` file:
+   ```bash
+   HUGGINGFACEHUB_API_TOKEN=YOUR_HUGGINGFACE_API_TOKEN
+
+
+4. Run the application:
    ```bash
    streamlit run app.py
 
